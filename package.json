@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.34.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
